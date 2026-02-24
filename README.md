@@ -514,6 +514,13 @@ Check the [API Reference](https://github.com/asternic/wuzapi/blob/main/API.md)
         </a>
     </td>
     <td align="center" style="word-wrap: break-word; width: 150.0; height: 150.0">
+        <a href=https://github.com/sa3ronaldo>
+            <img src=https://avatars.githubusercontent.com/u/3916177?v=4 width="100;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=Ronaldo Silva/>
+            <br />
+            <sub style="font-size:14px"><b>Ronaldo Silva</b></sub>
+        </a>
+    </td>
+    <td align="center" style="word-wrap: break-word; width: 150.0; height: 150.0">
         <a href=https://github.com/ruben18salazar3>
             <img src=https://avatars.githubusercontent.com/u/86245508?v=4 width="100;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=Rubén Salazar/>
             <br />
@@ -527,6 +534,8 @@ Check the [API Reference](https://github.com/asternic/wuzapi/blob/main/API.md)
             <sub style="font-size:14px"><b>Ryan Achdiadsyah</b></sub>
         </a>
     </td>
+</tr>
+<tr>
     <td align="center" style="word-wrap: break-word; width: 150.0; height: 150.0">
         <a href=https://github.com/ViFigueiredo>
             <img src=https://avatars.githubusercontent.com/u/67883343?v=4 width="100;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=ViFigueiredo/>
@@ -534,8 +543,6 @@ Check the [API Reference](https://github.com/asternic/wuzapi/blob/main/API.md)
             <sub style="font-size:14px"><b>ViFigueiredo</b></sub>
         </a>
     </td>
-</tr>
-<tr>
     <td align="center" style="word-wrap: break-word; width: 150.0; height: 150.0">
         <a href=https://github.com/cadao7>
             <img src=https://avatars.githubusercontent.com/u/306330?v=4 width="100;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=Ricardo Maminhak/>
